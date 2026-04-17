@@ -10,6 +10,5 @@ wheels/
 .venv
 
 # Local secrets
-.env
 .env.*
 !.env.example
